@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Blank Project (from https://github.c
+ om/making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kh2338
+Implementation-Vendor-Id: org.tt
+Build-Jdk: 1.8.0_231
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.tt.kafka_sample.App
+
